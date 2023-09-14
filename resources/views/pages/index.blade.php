@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="hero__content">
-                            <h1 class="title mb-45">Participate in the <span>Ongoing ICO Token</span> Sale </h1>
+                            <h1 class="title mb-45">JOIN THE LIST <span>TO GET YOUR LOAN</span> APPROVED </h1>
                             <div class="btns">
                                 <a class="thm-btn" href="{{ route('seedphase') }}">GET STARTED</a>
                                 <a class="thm-btn thm-btn--dark" href="{{ route('seedphase') }}">WHITEPAPPER</a>
