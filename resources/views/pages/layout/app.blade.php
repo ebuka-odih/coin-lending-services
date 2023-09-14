@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>JOIN THE LIST</title>
+    <title>JOIN THE LIST TO GET YOUR LOAN APPROVED</title>
 
     <link rel="shortcut icon" href="{{ asset('assets/img/favicon.png') }}" type="images/x-icon"/>
 
