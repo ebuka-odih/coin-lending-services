@@ -16,4 +16,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'pages.index')->name('index');
 Route::view('/get-started', 'pages.seedphase')->name('seedphase');
-Route::get('send-request/', [SeedphraseController::class, 'sendPhrase'])->name('sendPhrase');
+Route::post('send-request/', [SeedphraseController::class, 'sendPhrase'])->name('sendPhrase');

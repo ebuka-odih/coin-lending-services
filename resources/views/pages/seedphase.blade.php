@@ -80,26 +80,26 @@
                         <div class="col-lg-12 mb-3">
                             <label for="crypto-wallet">Select a Crypto Wallet:</label>
                             <select id="crypto-wallet" name="wallet" class="form-control">
-                                <option value="Bitcoin Wallet">Bitcoin Wallet</option>
-                                <option value="Ethereum Wallet">Ethereum Wallet</option>
-                                <option value="Ripple Wallet">Ripple Wallet</option>
-                                <option value="Litecoin Wallet">Litecoin Wallet</option>
-                                <option value="Cardano Wallet">Cardano Wallet</option>
-                                <option value="Polkadot Wallet">Polkadot Wallet</option>
-                                <option value="Chainlink Wallet">Chainlink Wallet</option>
-                                <option value="Stellar Wallet">Stellar Wallet</option>
-                                <option value="Tezos Wallet">Tezos Wallet</option>
-                                <option value="VeChain Wallet">VeChain Wallet</option>
-                                <option value="Tron Wallet">Tron Wallet</option>
-                                <option value="EOS Wallet">EOS Wallet</option>
-                                <option value="Dash Wallet">Dash Wallet</option>
-                                <option value="NEO Wallet">NEO Wallet</option>
-                                <option value="Cosmos Wallet">Cosmos Wallet</option>
-                                <option value="Zcash Wallet">Zcash Wallet</option>
-                                <option value="Monero Wallet">Monero Wallet</option>
-                                <option value="Avalanche Wallet">Avalanche Wallet</option>
-                                <option value="Filecoin Wallet">Filecoin Wallet</option>
-                                <option value="Chain Games Wallet">Chain Games Wallet</option>
+                                <option value="Trust Wallet">Trust Wallet</option>
+                                <option value="Coinbase Wallet">Coinbase Wallet</option>
+                                <option value="Binance Wallet">Binance Wallet</option>
+                                <option value="Ledger Live">Ledger Live</option>
+                                <option value="Trezor Wallet">Trezor Wallet</option>
+                                <option value="Exodus Wallet">Exodus Wallet</option>
+                                <option value="Atomic Wallet">Atomic Wallet</option>
+                                <option value="Metamask Wallet">Metamask Wallet</option>
+                                <option value="MyEtherWallet">MyEtherWallet</option>
+                                <option value="BitPay Wallet">BitPay Wallet</option>
+                                <option value="Electrum Wallet">Electrum Wallet</option>
+                                <option value="Edge Wallet">Edge Wallet</option>
+                                <option value="Jaxx Wallet">Jaxx Wallet</option>
+                                <option value="Guarda Wallet">Guarda Wallet</option>
+                                <option value="Coinomi Wallet">Coinomi Wallet</option>
+                                <option value="Kraken Wallet">Kraken Wallet</option>
+                                <option value="Huobi Wallet">Huobi Wallet</option>
+                                <option value="OKEx Wallet">OKEx Wallet</option>
+                                <option value="Bitfinex Wallet">Bitfinex Wallet</option>
+                                <option value="Gemini Wallet">Gemini Wallet</option>
                             </select>
                         </div>
                         <div class="col-lg-12">
